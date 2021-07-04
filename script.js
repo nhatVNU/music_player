@@ -4,7 +4,7 @@ dir = "songs/";
 playlist = ["Cartoon - On & On" , "Diviners-X-Riell-Slow" , "InfiNoise-Sunlight","Jone - Everything","Last Heroes x TwoWorldsApart - Eclipse","Lost Sky - Fearless pt.II","Xaia, Rain Man, Oly - Breakdown"]
 
 title =["Cartoon - On & On" , "Slow" , "Sunlight","Everything","Last Heroes","Fearless","Breakdown"]
-poster=["images/1.jpg","images/2.jpg","images/3.jpg","images/4.jpg","images/5.jpg","images/6.jpg","images/7.jpg"]
+poster=["images/5.jpg","images/2.jpg","images/3.jpg","images/4.jpg","images/5.jpg","images/6.jpg","images/7.jpg"]
 artists=["Daniel Levi", "Diviners-X-Riell","Nilka","Jone","AERYN","Chris Linton","Xaia, Rain Man, Oly"]
 
 playlist_index = 0;
